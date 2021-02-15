@@ -30,7 +30,7 @@ _What can be done?_
 
 For any change in the API (Prop) of any component, related docs are needed to be updated manually. The idea is to auto-generate the API Docs (Props definition) of the components from the prop definition in the code.
 
-Related Links -> 1 2 (MUI)
+Related Links -> [1](https://github.com/mui-org/material-ui/blob/next/CONTRIBUTING.md#updating-the-component-api-documentation) [2](https://github.com/mui-org/material-ui/blob/next/docs/scripts/buildApi.ts) (MUI)
 
 #### 4. Embed Playground in the Document Website (Medium)
 
@@ -38,8 +38,8 @@ Related Links -> 1 2 (MUI)
 
 Currently, we have 2 websites for documentation.
 
-- Reactnativeelements.com This contains just the documentation of the components, build using docusaurus.
-- React-native-elements.js.org An interactive component playground.
+- [Reactnativeelements.com](https://reactnativeelements.com/) This contains just the documentation of the components, build using docusaurus.
+- [React-native-elements.js.org](https://react-native-elements.js.org/#/) An interactive component playground.
 
 The idea is to merge the two into one, i.e. the document website which embeds the Playground.
 
