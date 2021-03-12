@@ -53,6 +53,7 @@ The idea is to merge the two into one, i.e. the document website which embeds th
 
 We know you are awesome and you have an innovative idea, feel free to the proposal.
 
+---
 
 > Join #gsoc on Slack Community -> https://react-native-elements-slack.herokuapp.com/
 
