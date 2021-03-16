@@ -51,7 +51,7 @@ The idea is to merge the two into one, i.e. the document website which embeds th
 
 > Tags: Other
 
-We know you are awesome and you have an innovative idea, feel free to the proposal.
+We know you are awesome and if you have an innovative idea, feel free to add to the proposal.
 
 ---
 
